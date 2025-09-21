@@ -1,6 +1,6 @@
 cask "afterdark" do
   version "1.0.0"
-  sha256 "d93fcb68b342b2abb5557871f869eae3fec83f2debfd1a4a36cc8ade5951824c"
+  sha256 "55f6655ef975eb3098d798926505c9cb1cb54627afefedc7b8c823989e2f438b"
   
   url "https://github.com/lv-labs/AfterDark/releases/download/v#{version}/AfterDark-v#{version}.zip"
   name "AfterDark"
